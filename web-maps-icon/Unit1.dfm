@@ -15,7 +15,7 @@ object Form1: TForm1
     Width = 561
     Height = 441
     ElementID = 'idMap'
-    APIKey = 'AIzaSyB85lsIbURIn6bCJblPV2X-IN1XvGd6fFU'
+    APIKey = ''
     OnMapLoaded = MapsMapLoaded
   end
   object Connection: TXDataWebConnection
