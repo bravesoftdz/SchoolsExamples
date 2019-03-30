@@ -15,7 +15,7 @@ object Form1: TForm1
     Width = 640
     Height = 480
     Align = alClient
-    APIKey = 'AIzaSyB85lsIbURIn6bCJblPV2X-IN1XvGd6fFU'
+    APIKey = ''
     OnMapLoaded = MapsMapLoaded
   end
   object Connection: TXDataWebConnection
